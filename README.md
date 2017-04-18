@@ -1,16 +1,16 @@
-## Le Wagon Shanghai
+## Le Wagon Chengdu
 
 ###HTML & CSS Workshop
 
-`Update: March 14`
+`Update: April 17`
 
-1. [Browse tutorial](https://tgenaitay.github.io/xnode/)
-2. [Download the slides](https://github.com/tgenaitay/xnode/raw/gh-pages/Le-Wagon-Landing-page-March-14-Shanghai.pdf)
+1. [Browse tutorial](https://allenjsx.github.io/krspace/)
+2. [Download the slides](https://github.com/allenjsx/krspace/...pdf)
 3. **Build your own!**
-3. [Contact us](mailto:shanghai@lewagon.org)
-4. Serious about learning? [Change your life](http://www.lewagon.com/shanghai)
+3. [Contact us](mailto:chengdu@lewagon.org)
+4. Serious about learning? [Change your life](http://www.lewagon.com/chengdu)
 
 More in WeChat:
 
-![QRcode](https://tgenaitay.github.io/landing/images/QRCodeLeWagon.gif)
+![QRcode](https://allenjsx.github.io/krspace/images/ChengduOA-QR.jpg)
 
