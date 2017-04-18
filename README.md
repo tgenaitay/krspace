@@ -12,5 +12,5 @@
 
 More in WeChat:
 
-![QRcode](https://allenjsx.github.io/krspace/images/ChengduOA-QR.jpg)
+![QRcode](http://res.cloudinary.com/lewagonchengdu/image/upload/c_scale,w_150/v1492522139/ChengduOA-QR_zexjpe.jpg)
 
